@@ -4,6 +4,11 @@
 <h1 align="center">GEMMA-Lucknow-2B Hackathon 🚀</h1>
 <p align="center">Hosted by <strong>Lucknow AI Labs & Tensorflow Lucknow</strong></p>
 
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/LucknowAI/GEMMA-Lucknow-2B/main/assets/gemma.png" height="200">
+</h3>
+
 <h2>Introduction:</h2>
 <p>Welcome! 🎉 We're excited to invite you to our Hackathon, aimed at advancing GEMMA with the unique data from Lucknow and launching 'GEMMA-Lucknow-2B'. Get ready for an enriching experience filled with innovation and collaboration!</p>
 
