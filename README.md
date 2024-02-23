@@ -54,3 +54,6 @@
 
 <p>By participating in this hackathon, you agree to adhere to the guidelines and code of conduct outlined above. We're excited to see your innovative solutions. Good luck, and thank you from <strong>Team Lucknow AI Labs</strong>! 🌟</p>
 
+<h3 align="center">
+  <img src="https://lucknowai.github.io/assets/images/lucknow_illustration.f2f78acc.png" height="200">
+</h3>
