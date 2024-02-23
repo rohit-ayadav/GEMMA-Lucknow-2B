@@ -1,3 +1,23 @@
-{
-"text": "<start_of_turn>user What are the two broad categories of Lucknow mentioned? <end_of_turn>\n<start_of_turn>model Lucknow can be broadly categorized into New and Old Lucknow. <end_of_turn>\n<start_of_turn>user What is the significance of the Mughal period in Lucknow's history? <end_of_turn>\n<start_of_turn>model Lucknow witnessed its cultural and historic evolution during the Mughal period. <end_of_turn>\n<start_of_turn>user What was Lucknow's role during British India? <end_of_turn>\n<start_of_turn>model Lucknow was the seat of administration for British India and witnessed many uprisings against British rule. <end_of_turn>\n<start_of_turn>user What happened to Nawab Wajid Ali Shah during the British takeover? <end_of_turn>\n<start_of_turn>model The British exiled Nawab Wajid Ali Shah to Kolkata after taking over the city. <end_of_turn>\n<start_of_turn>user Can you name a few famous food stalls in Lucknow? <end_of_turn>\n<start_of_turn>model Some famous food stalls include Tundey Kebabs, Dastar-Khwan, and Zeeshan Biryani. <end_of_turn>\n<start_of_turn>user What is unique about Hazratganj in Lucknow? <end_of_turn>\n<start_of_turn>model Hazratganj is redesigned to the Victorian Era to mark the 100 years of its existence, similar to CP of Delhi. <end_of_turn>\n<start_of_turn>user How is the food scene in Lucknow described? <end_of_turn>\n<start_of_turn>model Lucknow is considered the best place for food lovers, offering a choice from famous food stalls across India and worldwide. <end_of_turn>"
-}
+[
+  {
+    "text": "<start_of_turn>user What are the two broad categories of Lucknow mentioned? <end_of_turn>\n<start_of_turn>model Lucknow can be broadly categorized into New and Old Lucknow. <end_of_turn>"
+  },
+  {
+    "text": "<start_of_turn>user What is the significance of the Mughal period in Lucknow's history? <end_of_turn>\n<start_of_turn>model Lucknow witnessed its cultural and historic evolution during the Mughal period. <end_of_turn>"
+  },
+  {
+    "text": "<start_of_turn>user What was Lucknow's role during British India? <end_of_turn>\n<start_of_turn>model Lucknow was the seat of administration for British India and witnessed many uprisings against British rule. <end_of_turn>"
+  },
+  {
+    "text": "<start_of_turn>user What happened to Nawab Wajid Ali Shah during the British takeover? <end_of_turn>\n<start_of_turn>model The British exiled Nawab Wajid Ali Shah to Kolkata after taking over the city. <end_of_turn>"
+  },
+  {
+    "text": "<start_of_turn>user Can you name a few famous food stalls in Lucknow? <end_of_turn>\n<start_of_turn>model Some famous food stalls include Tundey Kebabs, Dastar-Khwan, and Zeeshan Biryani. <end_of_turn>"
+  },
+  {
+    "text": "<start_of_turn>user What is unique about Hazratganj in Lucknow? <end_of_turn>\n<start_of_turn>model Hazratganj is redesigned to the Victorian Era to mark the 100 years of its existence, similar to CP of Delhi. <end_of_turn>"
+  },
+  {
+    "text": "<start_of_turn>user How is the food scene in Lucknow described? <end_of_turn>\n<start_of_turn>model Lucknow is considered the best place for food lovers, offering a choice from famous food stalls across India and worldwide. <end_of_turn>"
+  }
+]
