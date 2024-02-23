@@ -1,65 +1,55 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/LucknowAI/GEMMA-Lucknow-2B/main/assets/gemma.png" height="300">
 
-</h3>
-<h1 align="center">GEMMA-Lucknow-2B Hackathon 🚀</h1>
-<p align="center">Hosted by <strong>Lucknow AI Labs & Tensorflow Lucknow</strong></p>
+</h3># GEMMA-Lucknow-2B Hackathon
 
+Welcome to the GEMMA-Lucknow-2B Hackathon organized by Lucknow AI Labs & Tensorflow Lucknow! This hackathon aims to fine-tune GEMMA on Lucknow data and publish 'GEMMA-Lucknow-2B'. 
 
-<h3 align="center">
-  <img src="https://avatars.githubusercontent.com/u/148684055?v=4" height="100">
-  <img src="https://lucknowai.github.io/assets/images/tf.png" height="100">
-</h3>
+## Hackathon Details
 
-<h2>Introduction:</h2>
-<p>Welcome! 🎉 We're excited to invite you to our Hackathon, aimed at advancing GEMMA with the unique data from Lucknow and launching 'GEMMA-Lucknow-2B'. Get ready for an enriching experience filled with innovation and collaboration!</p>
+- **Duration:** February 24th and 25th (2 days)
+- **Topic:** Fine-tuning GEMMA on Lucknow data and publishing 'GEMMA-Lucknow-2B'
+- **Communication Platform:** [Dedicated Discord Channel](https://discord.com/channels/1165604190475792434/1210562481567834142)
+- **Submission Platform:** GitHub
+- **Prizes:** Lucknow AI goodies for participants
 
-<h2>Hackathon Details:</h2>
-<ul>
-  <li><strong>Dates:</strong> 24th & 25th Feb. Mark your calendars! 📅</li>
-  <li><strong>Focus:</strong> Enhancing GEMMA with Lucknow's dataset and launching 'GEMMA-Lucknow-2B'</li>
-  <li><strong>Communication:</strong> Discord - Join our hackathon channel for discussions and support 🗨️</li>
-  <li><strong>Submission:</strong> GitHub - Showcase your work here 🌐</li>
-  <li><strong>Prizes:</strong> Exclusive Lucknow AI goodies for participants 🏆</li>
-</ul>
+## Guidelines
 
-<h2>Participation Guidelines:</h2>
-<ul>
-  <li><strong>Team or Individual:</strong> You can participate alone or in a team. Teams should provide their team name, and members' names and emails.</li>
-  <li><strong>GitHub Repository:</strong> Each participant/team needs a GitHub repo for their project. Make sure it's organized and accessible.</li>
-  <li><strong>Communication:</strong> Use the dedicated Discord channel for any queries or discussions.</li>
-  <li><strong>UI Enhancement:</strong> Adding a user interface to your project is encouraged. Gradio App is recommended for this purpose ✨.</li>
-  <li><strong>Coding Tools:</strong> There are no restrictions on the tools or models you use. Feel free to use any resources, including ChatGPT.</li>
-</ul>
+1. **Team Formation:** You can participate individually or as a team. Provide your team name and members' details if registering as a team.
+2. **GitHub Repository:** Create a GitHub repository for your code.
+3. **Communication:** Utilize the dedicated Discord channel provided for all coding questions and discussions.
+4. **User Interface Enhancement:** Implement a user interface on top of your model, using tools like Gradio App.
+5. **Coding Freedom:** No restrictions on tools or models. Explore freely, including ChatGPT.
+6. **Tutorial:** Refer to the provided starter kit and tutorials.
 
-<h3>Learning Resources:</h3>
-<ul>
-  <li><strong>Starter Kit & Tutorials:</strong> Start with our provided starter kit on GitHub and explore our tutorials in Hindi and English for a smooth beginning.</li>
-</ul>
+## Starter Kit and Tutorials
 
-<h2>Pro Tips & Resources:</h2>
-<ul>
-  <li><strong>Data Quality:</strong> Focus on collecting a large and diverse dataset to enhance your model's performance.</li>
-  <li><strong>Experimentation:</strong> Try different hyperparameters to find the best settings for your model.</li>
-  <li><strong>Reference Material:</strong> The GEMMA paper and report are great resources for understanding optimal fine-tuning practices.</li>
-  <li><strong>Dataset Creation:</strong> Gather Lucknow-specific data and use platforms like Quora for inspiration. Follow our guide to create your dataset effectively.</li>
-</ul>
+- **GitHub Code to Start:** [Starter Kit](https://huggingface.co/google/gemma-7b/blob/main/examples/notebook_sft_peft.ipynb)
+- **Tutorial:** [Beginner's Guide to Fine-tuning GEMMA](https://adithyask.medium.com/a-beginners-guide-to-fine-tuning-gemma-0444d46d821c)
+- **Colab Tutorials:** [Hindi](https://www.youtube.com/watch?v=oSC0uxqxwRA), [English](https://www.youtube.com/watch?v=agj3AxNPDWU&list=PLA83b1JHN4ly56Y7o6vDAT8Szxc3_EdRH)
 
-<h2>Code of Conduct:</h2>
-<ol>
-  <li><strong>Respect for All:</strong> We expect all participants to treat each other with respect and kindness. Harassment or discrimination will not be tolerated.</li>
-  <li><strong>Collaboration:</strong> Encourage teamwork and constructive feedback. Share knowledge and resources generously.</li>
-  <li><strong>Guidelines Compliance:</strong> Adhering to the provided guidelines is mandatory. Failure to do so may lead to disqualification.</li>
-  <li><strong>Positive Attitude:</strong> Maintain sportsmanship throughout the event. Celebrate others' success and learn from any setbacks.</li>
-</ol>
+## Tips and Additional Resources
 
-<h3>Registration:</h3>
-<p>Ready to join? Sign up here: <a href="https://forms.gle/r7uQyrvphtUS2W7c6" target="_blank">Registration Form</a></p>
+1. **Data Importance:** Data is the key to winning. Focus on acquiring a large and diverse dataset.
+2. **Experimentation:** Conduct multiple experiments with different hyperparameters.
+3. **Official GEMMA Paper:** Read the official GEMMA paper to understand the best hyperparameters used for fine-tuning:
+   - [GEMMA Open Models Blog](https://blog.google/technology/developers/gemma-open-models/)
+   - [GEMMA Report (PDF)](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
+4. **Combine Different Kinds of Data:** Combine various types of Lucknow-related data, such as:
+   - Food of Lucknow: [Quora](https://www.quora.com/How-will-you-introduce-Lucknow)
+   - Culture of Lucknow: [Quora](https://www.quora.com/What-are-some-mind-blowing-facts-about-Lucknow?no_redirect=1)
+   - Tourism of Lucknow: [Quora](https://www.quora.com/What-are-some-mind-blowing-facts-about-Lucknow?no_redirect=1)
+   - Literature of Lucknow: [Quora](https://www.quora.com/What-are-some-mind-blowing-facts-about-Lucknow?no_redirect=1)
+   - Use Quora as a good source for relevant questions.
+5. **Data Creation Process Tips:** Follow these steps for the data creation process:
+   - Collect raw data from Wikipedia, Quora, etc.
+   - Use ChatGPT, Gemini, etc., to convert the data into Gemini format.
+6. **Sample Data Repository:** Fork the sample data repository provided: [Sample Data Repo](https://github.com/LucknowAI/GEMMA-Lucknow-2B/tree/main)
 
-<h3>Contact Us:</h3>
-<p>For any queries or assistance, feel free to reach out on Discord or WhatsApp.</p>
+## Registration and Contact Information
 
-<p>By participating in this hackathon, you agree to adhere to the guidelines and code of conduct outlined above. We're excited to see your innovative solutions. Good luck, and thank you from <strong>Team Lucknow AI Labs</strong>! 🌟</p>
+- **Registration Link:** [Register Here](https://forms.gle/r7uQyrvphtUS2W7c6)
+- **Contact:** For queries or assistance, contact [Organizer Name](mailto:organizer@email.com).
 
 <h3 align="center">
   <img src="https://lucknowai.github.io/assets/images/lucknow_illustration.f2f78acc.png" height="200">
