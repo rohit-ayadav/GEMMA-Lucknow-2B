@@ -1,6 +1,6 @@
 [
   {
-    "text": "<start_of_turn>user What are the two broad categories of Lucknow mentioned? <end_of_turn><start_of_turn>model # Lucknow can be broadly categorized into New and Old Lucknow. <end_of_turn>"
+    "text": "<start_of_turn>user What are the two broad categories of Lucknow? <end_of_turn><start_of_turn>model # Lucknow can be broadly categorized into New and Old Lucknow. <end_of_turn>"
   },
   {
     "text": "<start_of_turn>user What is the significance of the Mughal period in Lucknow's history? <end_of_turn><start_of_turn>model # Lucknow witnessed its cultural and historic evolution during the Mughal period. <end_of_turn>"
