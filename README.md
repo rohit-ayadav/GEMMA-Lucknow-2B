@@ -8,6 +8,7 @@
 
 <h3 align="center">
   <img src="https://avatars.githubusercontent.com/u/148684055?v=4" height="200">
+  <img src="https://avatars.githubusercontent.com/u/148684055?v=4" height="200">
 </h3>
 
 <h2>Introduction:</h2>
