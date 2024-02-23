@@ -1,12 +1,13 @@
 <h3 align="center">
-  <img src="https://avatars.githubusercontent.com/u/148684055?v=4" height="200">
+  <img src="https://raw.githubusercontent.com/LucknowAI/GEMMA-Lucknow-2B/main/assets/gemma.png" height="600">
+
 </h3>
 <h1 align="center">GEMMA-Lucknow-2B Hackathon 🚀</h1>
 <p align="center">Hosted by <strong>Lucknow AI Labs & Tensorflow Lucknow</strong></p>
 
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/LucknowAI/GEMMA-Lucknow-2B/main/assets/gemma.png" height="200">
+  <img src="https://avatars.githubusercontent.com/u/148684055?v=4" height="200">
 </h3>
 
 <h2>Introduction:</h2>
