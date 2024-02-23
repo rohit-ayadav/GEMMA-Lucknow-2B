@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/LucknowAI/GEMMA-Lucknow-2B/main/assets/gemma.png" height="400">
+  <img src="https://raw.githubusercontent.com/LucknowAI/GEMMA-Lucknow-2B/main/assets/gemma.png" height="300">
 
 </h3>
 <h1 align="center">GEMMA-Lucknow-2B Hackathon 🚀</h1>
